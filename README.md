@@ -1,4 +1,5 @@
-## Hi, my name is Jose and I'm a digital expert. Passionate about modeling everything with maths!
+## Hi, my name is Jose and I'm a digital expert. 
+## Passionate about modeling everything with maths!
 
 
 ### 🔧 Technologies & Tools
