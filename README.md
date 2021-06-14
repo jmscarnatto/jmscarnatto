@@ -1,4 +1,4 @@
-## Hi, my name is Jose and I'm a digital expert. 
+## Hi, my name is Jose and I'm a digital specialist. 
 ### Passionate about modeling everything with maths!
 
 
