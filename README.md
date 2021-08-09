@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Db-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
 <!--
 **jmscarnatto/jmscarnatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
