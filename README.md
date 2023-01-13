@@ -1,4 +1,4 @@
-## 🧉 Hi, my name is Jose and I'm a digital specialist. 
+## 🧉 Hi, my name is Jose and I'm a digital passionate. 
 ### Passionate about modeling everything with maths!
 
 
