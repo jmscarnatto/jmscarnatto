@@ -1,5 +1,5 @@
 ## 🧉 Hi, my name is Jose and I'm a digital passionate. 
-### Passionate about modeling everything with maths!
+### Delighted to create world-class web applications.
 
 
 ### 🛠 Technologies & Tools
